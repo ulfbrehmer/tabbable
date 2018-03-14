@@ -15,6 +15,7 @@ module.exports = function(el, options) {
     'a[href]',
     'textarea',
     'button',
+    'iframe',
     '[tabindex]',
   ];
 
